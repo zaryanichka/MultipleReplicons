@@ -1,0 +1,43 @@
+Figure6A	GC-content
+Pair	p-value
+Δchromid vs Δmegaplasmid	5.4e-23
+Δchromid vs Δplasmid	5.6e-129
+Δmegaplasmid vs Δplasmid	4.4e-59 
+	
+Figure6B	(M1-M2)/(std1+std2)
+chromid vs megaplasmid both whole genome	5.7e-32 
+chromid vs megaplasmid both secondary replicon	4.8e-21
+chromid whole genome vs chromid secondary replicon	7.6e-3
+megaplasmid whole genome vs megaplasmid secondary replicon	8.2e-3
+chromid whole genome vs megaplasmid secondary replicon	8.5e-16
+chromid secondary replicon vs megaplasmid whole genome 	6.7e-40
+	
+Figure6C	Mean
+Chromosome (chromid) vs Chromid both whole genome	3.3e-08
+Chromosome (chromid) vs Chromosome (megaplasmid) both whole genome	1.1e-14
+Chromosome (chromid) vs Megaplasmid both whole genome	7.9e-72
+Chromosome (chromid) whole genome vs Chromosome (chromid) secondary replicon	3.7e-01
+Chromosome (chromid) whole genome vs Chromid secondary replicon	1.4e-04
+Chromosome (chromid) whole genome vs Chromosome (megaplasmid) secondary replicon	7.7e-01
+Chromosome (chromid) whole genome vs Megaplasmid secondary replicon	6.1e-40
+Chromid vs Chromosome (megaplasmid) both whole genome	7.7e-01
+Chromid vs Megaplasmid both whole genome	2.2e-31
+Chromid whole genome vs Chromosome (chromid) secondary replicon 	7.8e-11
+Chromid whole genome vs Chromid secondary replicon	1.0e-01
+Chromid whole genome vs Chromosome (megaplasmid) secondary replicon 	2.1e-02
+Chromid whole genome vs Megaplasmid secondary replicon	1.7e-04
+Chromosome (megaplasmid) vs Megaplasmid both whole genome	2.5e-49
+Chromosome (megaplasmid) whole genome vs Chromosome (chromid) secondary replicon	3.2e-19
+Chromosome (megaplasmid) whole genome vs Сhromid secondary replicon	6.3e-01
+Chromosome (megaplasmid) whole genome vs Chromosome (megaplasmid) secondary replicon	1.3e-19
+Chromosome (megaplasmid) whole genome vs Megaplasmid secondary replicon	1.2e-15
+Megaplasmid whole genome vs Chromosome (chromid) secondary replicon	2.0e-76
+Megaplasmid whole genome vs Chromid secondary replicon	9.3e-40
+Megaplasmid whole genome vs Chromosome (megaplasmid) secondary replicon	1.9e-69
+Megaplasmid whole genome vs Megaplasmid secondary replicon	1.1e-23
+Chromosome (chromid) vs Chromid both secondary replicon	1.7e-07
+Chromosome (chromid) vs Chromosome (megaplasmid) both secondary replicon	2.3e-01
+Chromosome (chromid) vs Megaplasmid both secondary replicon	2.9e-46
+Chromid vs Chromosome (megaplasmid) both secondary replicon	1.0e-01
+Chromid vs Megaplasmid both secondary replicon	3.1e-07
+Chromosome (megaplasmid) vs Megaplasmid both secondary replicon	4.6e-46
